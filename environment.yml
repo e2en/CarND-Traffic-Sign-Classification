@@ -1,4 +1,4 @@
-name: CarND-Traffic-Sign-Classifier-Project
+name: CarND-Traffic-Sign-Classification
 dependencies:
 - pip >= 9
 - jupyter
